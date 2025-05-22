@@ -1,3 +1,3 @@
 # mercyhs-arch
 
-Work in progress
+it's mostly defaults and other peoples configs rn, still working on it :/ 
