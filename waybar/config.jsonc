@@ -1,7 +1,8 @@
 
 {
-  "height": 30, // Waybar height
-  "spacing": 5, // Gaps between modules
+  "height": 26, // Waybar height
+  "spacing": 8, // Gaps between modules
+  "margin": "8 11 0 11",
 
   "modules-left": [
     "hyprland/workspaces"
@@ -20,7 +21,10 @@
     "clock",
     "tray"
   ],
-
+  "hyprland/workspaces": {
+    "disable-scroll": true,
+    "spacing": 8
+  },
   "tray": {
     "spacing": 10
   },
